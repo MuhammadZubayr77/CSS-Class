@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+}
+
+.father-div {
+    width: 100%;
+    max-width: 100%;
+    background-color: #c2bcbc;
+    /* height: 400px; */
+    margin-top: 0px;
+}
+
+.love-us {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #404040;
+    padding-top: 30px;
+}
+
+.sonCard {
+    width: 340px;
+    height: 420px;
+    max-width: 340px;
+    max-height: 420px;
+    border: 2px solid #EBEEF0;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 80px;
+    padding: 50px 20px 30px;
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* img {
+    width: 150px;
+} */
+
+.quote {
+    display: block;
+    font-size: 24px;
+    padding-top: 40px;
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* margin-bottom: 80px; */
+}
+ .card1img {
+    margin-top: 120px;
+ }
+
+ .card1 {
+    padding-bottom: 30px;
+ }
